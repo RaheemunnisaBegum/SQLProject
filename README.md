@@ -1,0 +1,1 @@
+Enhanced housing dataset for improved analysis, converting timestamps, addressing null values, standardizing data representations, and eliminating duplicates. Transformed raw data, ensuring consistency in format and labels. Streamlined data by breaking down addresses into separate columns and optimizing for analytical insights.
